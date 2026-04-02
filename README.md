@@ -1,4 +1,4 @@
-# POPPY ai-policy 
+# POPPY AI policy
 
 Note: heavily inspired by https://github.com/ghostty-org/ghostty/blob/main/AI_POLICY.md
 
@@ -13,7 +13,7 @@ Poppy has strict rules for AI usage:
 
 - **The human-in-the-loop must fully understand all AI produced output.** You
   must be able to explain what your changes do and how they interact with the
-  greater system without the aid of AI tools
+  greater system without the aid of AI tools.
 
 
 ## There are Humans Here
